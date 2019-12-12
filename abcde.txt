@@ -2,3 +2,7 @@ lion
 tiger
 giraffe
 goat
+
+
+Hazari
+Boo
